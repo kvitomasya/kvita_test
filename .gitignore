@@ -7,6 +7,10 @@
 .idea/dictionaries
 .idea/vcs.xml
 .idea/jsLibraryMappings.xml
+.idea/*
+/.idea/
+/.target/
+kvita_test.iml
 
 # Sensitive or high-churn files:
 .idea/dataSources.ids
@@ -25,11 +29,13 @@
 
 ## File-based project format:
 *.iws
+*.class
 
 ## Plugin-specific files:
 
 # IntelliJ
 /out/
+
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
