@@ -16,6 +16,7 @@ public class Employee_Hourly extends Employee implements Salary {
 
     public void printSalary() {
         System.out.println("Name " + name + " ID " + id + " Salary " + salary);
+        System.out.println("This change is made from Github without IDE")
 
     }
 }
